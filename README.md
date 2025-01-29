@@ -26,8 +26,6 @@ Each model is trained, and the following metrics are calculated on the test set:
 Mean Squared Error (MSE)
 Mean Absolute Error (MAE)
 R-squared Score (R²)
-Step 7: Visualize Results
-Bar plots are created for each metric to compare the models visually.
 
-Step 8: Identify Best and Worst Model
+Step 7: Identify Best and Worst Model
 The best and worst models are identified based on the R² score.
